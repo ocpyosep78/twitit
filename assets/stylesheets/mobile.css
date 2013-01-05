@@ -1,0 +1,84 @@
+.welcome_message1 {
+	background: #fff;
+	width: 160px;
+	padding: 10px;
+}
+
+.welcome_message2 {
+	background: #fff;
+	width: 240px;
+	padding: 10px;
+}
+
+.welcome_message3 {
+	background: #fff;
+	width: 330px;
+	padding:10px;
+	margin-top: -20px
+}
+
+#mobile {
+	color: rgb(51,51,51);
+	font: 13px/1.2 'Helvetica Neue',Arial,Helvetica,'Liberation Sans',FreeSans,sans-serif;
+	background: none repeat scroll 0% 0% rgb(246, 246, 246);
+}
+
+#mobile .profile {
+	background: #ffffff;
+	border-radius: 3px;
+	border: 1px solid rgb(233, 233, 233);
+	margin: 5px;
+	padding: 10px;
+	min-height: 100px;
+}
+
+#mobile .tweets {
+	background: #ffffff;
+	border-radius: 3px;
+	border: 1px solid rgb(233, 233, 233);
+	margin: 5px;
+	padding: 10px;
+	min-height: 100px;
+}
+
+#mobile img.avatar {
+	width: 45px;
+	height: 45px;
+	border-radius: 3px;
+	float: left;
+}
+
+#mobile .username {
+	float: left;
+	margin-left: 5px;
+	width: 130px;
+	height: 50px;
+	overflow: hidden;
+}
+
+#mobile .name {
+	font-weight: bold;
+	color: #444;
+	font-size: 14px;
+}
+
+#mobile .screen_name {
+	font-size: 12px;
+	color: #888;
+}
+
+#mobile .text {
+	margin-top: 10px;
+	font-size: 14px;
+	padding: 10px 0px;
+	border-bottom: 1px solid rgb(233, 233, 233);
+}
+
+#mobile .text .date {
+	font-size: 10px;
+	color: #888;
+}
+
+#mobile .tweet_do {
+	padding-top: 10px;
+}

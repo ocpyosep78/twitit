@@ -1,0 +1,37 @@
+.kolom {
+	height:550px; 
+	overflow:scroll;
+}
+
+.avatar {
+	float: right;
+}
+
+.avatar img {
+	width: 40px;
+	height: 40px;
+	border-radius: 3px;
+}
+.name {
+	font-size: 18px;
+}
+
+.date {
+	font-size: 13px;
+}
+
+.source {
+	font-size: 10px;
+}
+
+.tweet {
+	height: 55px;
+}
+
+#footer {
+	bottom: 5px;
+	right: 0px;
+	position: fixed;
+	text-align: right;
+	font-size: 10px;
+}
